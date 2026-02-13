@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Verify Router
+Comment=Verify GL.iNet router settings and register on GoodCloud
+Exec=bash -c 'gnome-terminal -- bash "$(dirname "$(readlink -f "%k")")/verify_router_gui.sh"'
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
