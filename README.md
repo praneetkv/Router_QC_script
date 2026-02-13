@@ -104,8 +104,8 @@ Hardcoded in the scripts (change if needed):
 |-----------|-------|----------|
 | Router IP | 172.16.1.1 | SSH into router |
 | Router password | MusterLegoWaking | SSH key setup / sshpass |
-| GoodCloud email | praneetk@virtusense.com | GoodCloud API login |
-| GoodCloud password | VstPraneet | GoodCloud API login |
+| GoodCloud email | logcom@virtusense.com | GoodCloud API login |
+| GoodCloud password | MusterLegoWaking | GoodCloud API login |
 | GoodCloud org ID | d6268cca351035d902c9301bbfd8ed12 | virtusense organization |
 
 ## Troubleshooting
